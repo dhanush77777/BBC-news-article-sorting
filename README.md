@@ -1,5 +1,12 @@
 # BBC-news-article-sorting
-A NLP based application which classifies article according to there category
+- ### A NLP based application which classifies article according to there category.Here i have used news API for top 5 news updates for every category
+### categories
+- Politics
+- Sports
+- Business
+- Entertainment
+- Technology
+
 ### Working of the app
 
 https://user-images.githubusercontent.com/66821432/133927811-72ba617b-8ece-4e39-af21-867ff02566c7.mp4
