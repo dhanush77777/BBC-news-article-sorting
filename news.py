@@ -7,7 +7,7 @@ main_url="https://newsapi.org/v2/top-headlines?country=in&category=politics&apiK
 news=requests.get(main_url).json()
 article=news["articles"]
     
-    
+#dhanusgh
 news_article=[]
 n=[]
 for arti in article:
