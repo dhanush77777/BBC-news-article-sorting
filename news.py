@@ -2,7 +2,7 @@ import requests
 #testing
 #testing_2
 api_key="706c4dbcb4ac484a9c9c2488add37812"
-
+#dhanush
 
 main_url="https://newsapi.org/v2/top-headlines?country=in&category=politics&apiKey="+api_key
 news=requests.get(main_url).json()
